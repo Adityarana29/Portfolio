@@ -50,7 +50,7 @@ section {
 }
 
 .home-bg {
-  background: url("assets/back.gif") center/cover no-repeat;
+  background: url("back.gif") center/cover no-repeat;
   position: relative;
 }
 
@@ -425,3 +425,4 @@ section {
   opacity: 1;
   transform: translateY(0);
 }
+
