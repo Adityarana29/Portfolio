@@ -17,7 +17,7 @@ const texts = [
   "AI / ML Engineer",
   "Data Analyst",
   "Python Programmer",
-  "Dashboard Developer"
+  "Data Science"
 ];
 
 let count = 0;
